@@ -1,1 +1,1 @@
-# blip2-finetuning
+# blip2-finetuning - GO MAD
